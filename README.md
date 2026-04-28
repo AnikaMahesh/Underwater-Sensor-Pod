@@ -70,3 +70,7 @@ On entering this project i set the following goals for myself
 - Learn and implement controls algorithms to do active heave compensation and snag detection
 
 I did achieve some of these goals such as learning how to design underwater housings and create CAD models. I learned how to do waterproofing and calculate O ring slots. Additionally I did do ESP32 firmware coding and did learn about heave compensation and snag detection algorithms. However I did not design the PCB yet. Initially i was planning on designing a winch to deploy the sensor pod and wanted to do a bench test of the system. However in working on this project I made the decision to focus more on waterproofing the sensor pod and getting it to work in the bucket. While i didnt acheive all the learning goals, I did learn many things i wasnt initially intending to learn.
+
+
+## Acknowledgements
+Thanks to the Olin CREST lab and Prof. Victoria Preston for Advising on this project.
