@@ -27,6 +27,7 @@
 | M5 Threaded Rods | 4 | $7.72 |https://www.amazon.com/dp/B0FMNTZFYR?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1|
 | M5 Hex Nuts | 8 | $0.56 |https://www.amazon.com/Kinhon-Rock-Stainless-Automotive-Industrial/dp/B0GJ37N9Y7/ref=sr_1_1_sspa?crid=2A11KZYJGQOXS&dib=eyJ2IjoiMSJ9.HvZn61SwVnhq1qOIBjcm4So77qIcb1yjq6-o3SHdhFdci99LuGTiGB5Lsk_9TJ8u52mo0sO-0Ar7_75YmM2UCmn41EjBG5-Ukeg9b_lbXPhbhgcXdiANE8xK230eRp4z3DY0V7mMu88_2hmPVcwzXVlcBDJG4DQCbzVNZw3B8oqoWVYFVVcFK0exYKFfLPOwE8XV6vdJ3pgRg-rwtaO0isTcuRwVVGMfm1UxaxRmZs2i6PGj0To_N1f5Oy93EwSKlFRWBncAegdp2B71AK6D3QDpmgpE_p2gzJWrYTGlTIE.o4hQ0mIbnBD7gg5nwaCy0oA3xVeKqTA6QP3DB5qsNp4&dib_tag=se&keywords=M5+hex+nuts&qid=1777405735&s=industrial&sprefix=m5+hex+nuts%2Cindustrial%2C210&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1|
 | PVC Pipe | 1 | $10 |https://www.amazon.com/MECCANIXITY-31-6mm-Impact-Aquarium-Greenhouse/dp/B0DP1X5ZFC/ref=sr_1_140_sspa?crid=2STKFL5ANB7NE&dib=eyJ2IjoiMSJ9.SRnaUdQA2jo3k_l1nlxflnqp647uhTZcyuxblo8_BV3aToQxuw-0TOXjpFUBNOgd9wsTtTyYCLe4LD0FI1xGOeL5ZhQJ6yBq_i9_MDTNdSRuRstn2U3iPcpvDBLNOAsKA8_xNmzlZLI9pnWIgCmFf74HKOm3HpMxciwSIg1VpjNE0Ofs6Gp3E7zHH4xe9JYLwGG0Yb2NromBAJL6zPbsARrZOdav5Pn19Ny6gQCcQOc80cxPDUPsROh60HuiCewZtsLzqMbzaASuzMFBq63CVkcxa7nDyFwfIjn2OlTCSNQ.cdc029Mz883X7-9OHRzYfl83dfzrnWWfcIoa2kqv47M&dib_tag=se&keywords=1.6%2Bin%2Bdiameter%2Bpvc%2Bpipe&qid=1777406587&s=hi&sprefix=1.6%2Bin%2Bdiameter%2Bpvc%2Bpip%2Ctools%2C96&sr=1-140-spons&xpid=wogcQ9SoyhVx-&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1|
+| SD card | 1 | $23.3 |https://www.amazon.com/dp/B0D5QPTFH9?psc=1&ref=ppx_pop_dt_b_asin_title|
 
 
 
@@ -63,4 +64,9 @@ The waterproofing was tested first by putting the sensor pod in water with a pap
 
 
 ## Reflection
+On entering this project i set the following goals for myself
+- Learn to design housing and create CAD models.
+- learn PCB design and ESP32 firmware coding.
+- Learn and implement controls algorithms to do active heave compensation and snag detection
 
+I did achieve some of these goals such as learning how to design underwater housings and create CAD models. I learned how to do waterproofing and calculate O ring slots. Additionally I did do ESP32 firmware coding and did learn about heave compensation and snag detection algorithms. However I did not design the PCB yet. Initially i was planning on designing a winch to deploy the sensor pod and wanted to do a bench test of the system. However in working on this project I made the decision to focus more on waterproofing the sensor pod and getting it to work in the bucket. While i didnt acheive all the learning goals, I did learn many things i wasnt initially intending to learn.
